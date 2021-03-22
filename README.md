@@ -1,0 +1,3 @@
+A promising new language - Python syntax, but tremendously faster (and statically-typed).
+
+Also, compile-time macros, the likes of which I've only seen in LISPs...
